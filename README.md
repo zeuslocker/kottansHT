@@ -1,0 +1,1 @@
+https://travis-ci.org/zeuslocker/kottansHT.svg?branch=master

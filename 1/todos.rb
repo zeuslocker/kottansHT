@@ -1,3 +1,4 @@
+# My TodoList class
 class TodoList
   @todos = []
   def initialize
@@ -21,6 +22,7 @@ class TodoList
     @@todos[num].done = status
   end
 end
+# My Todo_class
 class Todo
   attr_accessor :body, :done
 

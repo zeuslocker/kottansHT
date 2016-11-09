@@ -1,3 +1,4 @@
+# My Superhero class
 class Superhero
   include Comparable
   attr_accessor :name, :strength, :agility, :intelligence

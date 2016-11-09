@@ -1,3 +1,4 @@
+# My Human class
 class Human
   attr_accessor :name
   def to_drink(some_drink)
@@ -12,6 +13,7 @@ class Human
     human
   end
 end
+# My Drink class
 class Drink
   attr_accessor :name
   def is_a?

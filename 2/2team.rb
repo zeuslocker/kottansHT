@@ -1,5 +1,6 @@
 require '~/workspace/superhero'
 require '~/workspace/myEnumerable'
+# My Team class
 class Team
   attr_accessor :hero_array
   include Enumerable

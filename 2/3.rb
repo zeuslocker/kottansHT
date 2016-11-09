@@ -1,3 +1,4 @@
+# My Enumerator module
 module Enumerator
   def each_square
     k = 0

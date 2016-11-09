@@ -1,4 +1,5 @@
-module MyEnumerable # myEnums
+# My Enumerable module
+module MyEnumerable
   def select
     res = []
     each do |t|
